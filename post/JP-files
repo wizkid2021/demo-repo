@@ -1,1 +1,6 @@
-This is a project I'm working on
+How to access an S3 bucket
+###########################################################
+log into the AWS console
+click on S3
+access the name of the bucket you need to access
+click and select the folder/file you need
